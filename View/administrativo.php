@@ -3,11 +3,6 @@ session_start();
 include_once  '../Persistence/instituicao.Crud.php';
 $crudInst = new CRUDInst();
 $result = $crudInst->listInst();
-if($_SESSION["useremail"] != 1){
-    echo "Usuário não está logado. Direcionando para a página de login.";
-    header('Location: /../systce/index.php');
-
-}
 ?>
 <!DOCTYPE html>
 <html>

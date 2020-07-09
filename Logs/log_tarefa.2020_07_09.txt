@@ -1,0 +1,16 @@
+Data: [09/07/20] Hora->[19:15:36 -03] Usuário->[] Cadastrou usuário inícial .
+Data: [09/07/20] Hora->[19:16:30 -03] Usuário->[] Acessou o sistema .
+Data: [09/07/20] Hora->[19:16:39 -03] Usuário->[] Acessou o sistema .
+Data: [09/07/20] Hora->[19:17:20 -03] Usuário->[] Cadastrou usuário inícial .
+Data: [09/07/20] Hora->[19:17:27 -03] Usuário->[] Acessou o sistema .
+Data: [09/07/20] Hora->[19:17:37 -03] Usuário->[] Cadastrou usuário inícial .
+Data: [09/07/20] Hora->[19:17:42 -03] Usuário->[] Acessou o sistema .
+Data: [09/07/20] Hora->[19:17:48 -03] Usuário->[] Acessou o sistema .
+Data: [09/07/20] Hora->[19:19:49 -03] Usuário->[] Acessou o sistema .
+Data: [09/07/20] Hora->[19:19:57 -03] Usuário->[] Acessou o sistema .
+Data: [09/07/20] Hora->[19:20:53 -03] Usuário->[] Acessou o sistema .
+Data: [09/07/20] Hora->[19:47:59 -03] Usuário->[] Cadastrou estudante .
+Data: [09/07/20] Hora->[19:48:35 -03] Usuário->[] Atualizou estudante .
+Data: [09/07/20] Hora->[19:49:04 -03] Usuário->[] Cadastrou disciplina .
+Data: [09/07/20] Hora->[19:49:16 -03] Usuário->[] Cadastrou matrícula .
+Data: [09/07/20] Hora->[19:49:25 -03] Usuário->[] Acessou o sistema .

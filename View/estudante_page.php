@@ -88,7 +88,7 @@ $line_m = mysqli_fetch_assoc($consult_m);
                          Endereço: <?= $line_m['endereco_estud'];?><br>
                          Série: <?= $line_m['serie_estud'];?><br>
                          Turno: <?= $line_m['turno_estud'];?><br>
-		  			     Cidade: <?= $line_m['cidade_estud'];?><br>   
+		  			             Cidade: <?= $line_m['cidade_estud'];?><br>   
                          Respsável: <?= $line_m['respo_estud'];?><br>
                          Fone Resp: <?= $line_m['fone_resp'];?><br>
 							<br /><br />
@@ -159,7 +159,7 @@ $line_m = mysqli_fetch_assoc($consult_m);
                                 </div>
                                   <!--====== listar professor ====-->
                                 <div class="tab-pane" id="tab7">
-                                <strong>Lista de professores</strong><hr>
+                                <strong>Lista de Professores</strong><hr>
                             <table cellpadding="0" cellspacing="0" class="col-md-12">
                                 <tbody>
                                   <?php
