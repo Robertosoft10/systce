@@ -1,0 +1,289 @@
+/* lista estudante */
+#foto-list-tabela{
+    width: 20%;
+}
+@media only screen and (min-width: 300px) {
+ 
+    #img-list-tabela{
+        width: 120px;
+        height: 90px;
+    }
+ 
+}
+@media only screen and (min-width: 300px) {
+ 
+    #img-detalhe-tabela{
+        width: 150px;
+        height: 120px;
+    }
+ 
+}
+
+@media only screen and (min-width: 300px) {
+ 
+    #img-detalhe-user{
+        width: 100px;
+    }
+ 
+}
+#th-tabela{
+    background-color: #314253;
+    color: #ffffff;
+}
+#icon-list-tabela{
+    font-size: 18pt;
+}
+#icon-del-tabela{
+    margin-left: 30%;
+    font-size: 18pt;
+}
+#td-list-acao-estud{
+     width: 10%;
+}
+#menu-link{
+    color:  #314253;
+    font-size: 9pt;
+}
+#nome-informacao{
+    font-size: 11pt;
+}
+/* detalhe estudante */
+#foto-list-tabela-detalhe{
+    width: 30%;
+}
+#btn-acao-detalhe{
+   text-align: right;
+}
+#icon-delt-tabela{
+    margin-left: 5%;
+    font-size: 17pt;
+}
+#nome-img-detalhe{
+    font-size: 13pt;
+}
+#tamanho-modal{
+    width: 80%;
+    margin-left: 12%;
+}
+#posicao-modal{
+    margin-top: 10%;  
+}
+#pergunta-modal{
+    font-size: 13pt;
+}
+#btn-modal{
+    width: 35%;
+}
+/* cadastro estudante */
+#btn-cad{
+    width: 40%;
+}
+/* disciplina */
+#btn-acao-disc{
+    width: 20%;
+}
+#nome-pesq-pagina{
+    font-size: 12pt;
+}
+/* detalhe frequencia */
+#infor-freq{
+    font-size: 11pt;
+}
+#icon-list-freq{
+     font-size: 17pt;
+}
+/* detalhe matricula */
+#btn-add-det-mat{
+    margin-top: -5%;
+}
+#btn-acao-matric{
+    width: 20%;
+}
+#icon-del-freq{
+    margin-left: 30%;
+     font-size: 17pt;
+}
+#infor-form-det-mat{
+    width: 5%;
+    font-weight: bold;
+    font-size: 9pt;
+}
+#inut-cad{
+    width: 100%;
+}
+#td-detalhe-matric{
+    width: 20%;
+}
+#inputs-det-matri{
+    width: 40%;
+}
+#btn-deltahe-matric{
+    margin-left: 80%;
+}
+#icon-deta-freq{
+    font-size: 16pt;
+    margin-left: 15%;
+}
+#nome-estud-matri{
+font-size: 12pt;
+}
+#icon-dados{
+font-size: 15pt;
+}
+/* instituição */
+#nome-inst{
+    font-size: 10pt;
+    font-style:boud;
+}
+/* usuário */
+#btn-det-user{
+    font-size: 18pt;
+    color: #428bca;
+}
+#btn-det-user-edit{
+    font-size: 18pt;
+    margin-left: 3%;
+}
+#btn-det-user-del{
+    font-size: 18pt;
+    margin-left: 3%;
+}
+#dado-user{
+    font-size: 11pt;
+    text-align: left;
+}
+/* admin */
+#nome-isntituicao{
+    font-size: 20pt;
+}
+#frese-isntituicao{
+    font-size: 13pt;
+}
+@media only screen and (min-width: 300px) {
+ 
+    #img-admin{
+        width: 160px;
+       margin-left: 25%;
+        
+    }
+ 
+}
+#logo{
+    font-size: 15pt;
+}
+/* index */
+.conteudo-left{
+    position: absolute;
+    background-color: #ffffff;
+    height: 400px;
+    width: 65%;
+    margin-left: -3%;
+    text-align: center;
+    border-radius: 8px;
+}
+@media screen and (max-width: 500px) {
+   .conteudo-left{
+    height: 400px;
+    width: 100%;
+    }
+}
+.login-form{
+    background-color: #ffffff;
+    height: 400px;
+    margin-left: 70%;
+    border-radius: 8px;
+}
+@media screen and (max-width: 500px) {
+   .login-form{
+     height: 400px;
+     width: 100%;
+     margin-left: 0%;
+     margin-top: 125%;
+    }
+}
+.login-bg{
+    background-color: #dad8d8;
+}
+#logo-index{
+    font-size: 30pt;
+}
+#nome-logo-index, #frase-inst-index{
+    font-size: 12pt;
+}
+fieldset{
+    text-align: center;
+}
+#infor-index{
+    margin-top: 20%;
+}
+#img-index{
+    width: 20%;
+    margin-top: 5%;
+}
+#tipo-user{
+    font-size: 12pt;
+}
+/* nota */
+#texto-nota{
+font-size: 12pt;
+}
+#texto-termo{
+    text-align: justify;
+}
+/* config */
+#nome-config{
+    font-size: 12pt;
+}
+#anotacao-nota{
+height: 100px;
+}
+/* outros dados */
+#id-outro-dado{
+    width: 13%;
+}
+#acao-outro-dado{
+    width: 15%;
+}
+#id-outro-dado, #serie-outro-dado, #acao-outro-dado{
+    font-size: 12pt;
+} 
+/* estudante page*/
+#logout-studante{
+    color: #ffffff;
+    font-size: 12pt;
+}
+#img-estudante-page{
+    width: 150px;
+}
+#sair-estudante-page{
+    text-decoration: none;
+}
+#nome-prof, #info-estud-page{
+    font-size: 12pt;
+}
+#alt-foto-page{
+    font-size: 9pt;
+    color: dodgerblue;
+    text-decoration: none;
+}
+#info-estud-page{
+    height: 750px;
+}
+@media only screen and (min-width: 300px) {
+ 
+    #info-estud-page{
+        height: 330px;
+    }
+}
+@media only screen and (min-width: 1024px) {
+ 
+    #info-estud-page{
+        height: 750px;
+    }
+}
+#tabela-pag-estud{
+    background-color: #B0E0E6;
+}
+#img-instituicao-page{
+    width: 100px;
+}
