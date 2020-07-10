@@ -1,6 +1,7 @@
 <?php
 session_start();
-
+error_reporting(0);
+ini_set("display_errors", 0 );
 include_once  '../Persistence/usuario.Crud.php';
 $crudUser = new CRUDUser();
 $result = $crudUser->listUser();

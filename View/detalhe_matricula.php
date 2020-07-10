@@ -1,5 +1,7 @@
 <?php
 session_start();
+error_reporting(0);
+ini_set("display_errors", 0 );
 include_once '../Persistence/conection.php';
 $id_matric = $_GET['id_matric'];
 $sql = "SELECT * FROM tb_matriculas MT JOIN tb_estudantes ET ON MT.estud_cod = ET.id_estud  WHERE id_matric='$id_matric'";

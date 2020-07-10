@@ -65,7 +65,7 @@ $line = mysqli_fetch_assoc($consult);
                   </form>
                                 
               </fieldset>  
-             <div id="infor-index">Copyright &copy; <?php $data = date('D/M/Y'); echo $data;?>
+             <div class="col-sm-12" id="infor-index">Copyright &copy; <?php $data = date('D/M/Y'); echo $data;?>
                 SystCE - Sistema Controle Escolar -
                 Robertosoft10 Todos os direitos reservados
                 </div>

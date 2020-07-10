@@ -57,13 +57,11 @@ fclose($handle);
 $download = $arquivo. ".sql";
 
 if(file_exists($download)){
-  $_SESSION['backupOk'] = "Backup realizado com sucesso!";
     session_destroy();
 unset($_SESSION['useremail'],
 	$_SESSION['password']);
     header('location: /../systce/index.php');
 }else{
-     $_SESSION['backupErro'] = "Erro ao realizar o backup!";
     unset($_SESSION['useremail'],
 	$_SESSION['password']);
     header('location: /../systce/index.php');

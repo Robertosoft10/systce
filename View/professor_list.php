@@ -1,5 +1,7 @@
 <?php
 session_start();
+error_reporting(0);
+ini_set("display_errors", 0 );
 include_once  '../Persistence/professor.Crud.php';
 $crudProf = new CRUDProf();
 $result = $crudProf->listProf();
